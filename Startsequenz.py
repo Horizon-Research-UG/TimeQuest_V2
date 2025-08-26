@@ -29,8 +29,12 @@ health_bar.health_bar()
 #siehe werkzeug.health_bar
 
 
-###########################
-x = input("Wie kann ich wieder leben? ")
+
+
+
+
+
+
 ###########################
 # Ticket 1: X in einer Liste speichern
 
@@ -42,7 +46,7 @@ def save_value(x, filename="dokumente/werte.csv"):
         writer.writerow([x])
 
 # Beispiel: Wert speichern
-x = input("Gib einen Wert ein: ")
+x = input("How to be alive and play the game? :  )  --->  : ")
 save_value(x)
 
-#append
+###############################
