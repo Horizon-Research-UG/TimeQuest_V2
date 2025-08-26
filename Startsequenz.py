@@ -58,6 +58,9 @@ def save_value(x, filename="dokumente/werte.csv"):
 # Beispiel: Wert speichern
 x = input("How to be alive and play the game? :  )  --->  : ")
 save_value(x)
+abstand.abstand()
+print(f"Wert '{x}' wurde gespeichert.")
+abstand.abstand()
 
 ###############################
 
