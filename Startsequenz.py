@@ -9,6 +9,18 @@ import werkzeug.health_bar as health_bar
 #für health bar
 
 
+###############################################
+#Ticket 4 : Hauptmenü bauen
+#Ticket 4a: welche Reiter sollen ins Hauptmenü
+# 1 -> Ladesequenz starten
+# 2 -> Fortschritt anzeigen
+# 3 -> etwas anderes
+###############################################
+
+
+
+
+
 #################
 #einstiegssequenz
 #################
